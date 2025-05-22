@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#FFE4B5"
+        android:pathData="M100,180 a80,80 0 1,1 0,-160 a80,80 0 1,1 0,160" />
+
+    <!-- Robot Head -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M100,95 a30,30 0 1,1 0,-60 a30,30 0 1,1 0,60" />
+
+    <!-- Robot Eyes -->
+    <path
+        android:fillColor="#FFE4B5"
+        android:pathData="M85,75 a5,5 0 1,1 0,-10 a5,5 0 1,1 0,10" />
+    <path
+        android:fillColor="#FFE4B5"
+        android:pathData="M115,75 a5,5 0 1,1 0,-10 a5,5 0 1,1 0,10" />
+
+    <!-- Robot Smile -->
+    <path
+        android:fillColor="#FFE4B5"
+        android:strokeWidth="2"
+        android:pathData="M85,85 Q100,95 115,85" />
+
+    <!-- Robot Antenna -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="4"
+        android:pathData="M100,35 L100,45" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M100,30 a4,4 0 1,1 0,-8 a4,4 0 1,1 0,8" />
+
+    <!-- Robot Body -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M75,130 L75,95 L125,95 L125,130 Q100,150 75,130" />
+
+</vector>

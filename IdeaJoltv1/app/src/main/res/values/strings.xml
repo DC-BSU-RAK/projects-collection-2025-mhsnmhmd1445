@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IdeaJolt</string>
+    <string name="app_tagline">Spark Ideas That Matter</string>
+
+    <!-- Auth screen strings -->
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="username">Username</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="continue_as_guest">Continue as Guest</string>
+
+    <!-- Main app strings -->
+    <string name="generate">Generate</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="enter_topic">Enter a topic…</string>
+    <string name="select_mood">Select Mood</string>
+    <string name="select_project_type">Select Project Type</string>
+    <string name="your_ideas">Your Ideas</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+
+    <!-- Error messages -->
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+    <string name="error_passwords_dont_match">Passwords don\'t match</string>
+    <string name="error_login_failed">Login failed. Please check your credentials.</string>
+    <string name="error_signup_failed">Sign up failed. Please try again.</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+</resources>

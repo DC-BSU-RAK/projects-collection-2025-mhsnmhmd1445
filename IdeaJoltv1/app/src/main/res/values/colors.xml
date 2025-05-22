@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gold">#FFE4B5</color>
+    <color name="dark_gold">#D4AF37</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="secondary_text">#B3FFFFFF</color>
+    <color name="disabled">#61FFFFFF</color>
+
+    <color name="light_gray">#BBBBBB</color>
+    <color name="dark_gray">#444444</color>
+    <color name="error_red">#F44336</color>
+
+    <color name="light_surface">#F5F5F5</color>
+
+    <color name="medium_gray">#888888</color>
+
+
+
+</resources>

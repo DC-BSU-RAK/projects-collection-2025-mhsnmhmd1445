@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Custom component styles -->
+    <style name="Widget.IdeaJolt.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/gold</item>
+        <item name="hintTextColor">@color/gold</item>
+    </style>
+
+    <style name="Widget.IdeaJolt.Button" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/gold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="Widget.IdeaJolt.Button.OutlinedButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/gold</item>
+        <item name="android:textColor">@color/gold</item>
+    </style>
+
+    <!-- Add other custom component styles here -->
+</resources>
