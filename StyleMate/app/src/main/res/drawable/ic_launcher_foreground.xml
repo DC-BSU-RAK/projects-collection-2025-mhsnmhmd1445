@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#0F1B3A"
+        android:pathData="M0,0h108v108h-108z" />
+
+    <!-- Diagonal Line Pattern -->
+    <group android:rotation="45" android:pivotX="54" android:pivotY="54">
+        <path
+            android:strokeColor="#162849"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round"
+            android:pathData="M-36,144l180,-180" />
+        <path
+            android:strokeColor="#0F1B3A"
+            android:strokeWidth="1"
+            android:strokeLineCap="round"
+            android:pathData="M-30,144l180,-180" />
+        <path
+            android:strokeColor="#162849"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round"
+            android:pathData="M-24,144l180,-180" />
+    </group>
+
+    <!-- Gloss Effect -->
+    <path
+        android:fillColor="#40FFFFFF"
+        android:pathData="M0,0 L54,0 Q108,0 108,54 L108,108 L0,108 Z" />
+
+    <!-- Shadow Effect -->
+    <path
+        android:fillColor="#1A000000"
+        android:pathData="M0,108 L108,108 L108,72 Q54,54 0,72 Z" />
+
+    <!-- Corner Accents -->
+    <path
+        android:fillColor="#3D5AF1"
+        android:pathData="M0,0 L36,0 L0,36 Z" />
+    <path
+        android:fillColor="#3D5AF1"
+        android:pathData="M108,108 L108,72 L72,108 Z" />
+
+    <!-- Beard icon -->
+    <path
+        android:fillColor="#98A5FF"
+        android:pathData="M54,30 C44,30 36,38 36,48 C36,52 37,55.5 39,58.5 C41,61.5 42,65 42,68 C42,71 41,73.5 39.5,76 C38,78.5 36.5,80.5 35,82 C39,80 42.5,78.5 45.5,77.5 C48.5,76.5 51,76 54,76 C57,76 59.5,76.5 62.5,77.5 C65.5,78.5 69,80 73,82 C71.5,80.5 70,78.5 68.5,76 C67,73.5 66,71 66,68 C66,65 67,61.5 69,58.5 C71,55.5 72,52 72,48 C72,38 64,30 54,30 Z" />
+
+    <!-- Face Outline -->
+    <path
+        android:strokeColor="#3D5AF1"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M54,24 C41,24 30,35 30,48 C30,56 34,63 40,67 M54,24 C67,24 78,35 78,48 C78,56 74,63 68,67" />
+
+    <!-- Sunglasses -->
+    <path
+        android:fillColor="#3D5AF1"
+        android:pathData="M40,45 L50,45 Q52,47 50,49 L40,49 Z" />
+    <path
+        android:fillColor="#3D5AF1"
+        android:pathData="M58,45 L68,45 Q70,47 68,49 L58,49 Z" />
+    <path
+        android:strokeColor="#98A5FF"
+        android:strokeWidth="2"
+        android:pathData="M50,47.5 L58,47.5" />
+</vector>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand colors -->
+    <color name="primary">#3D5AF1</color>
+    <color name="primaryDark">#2B43CF</color>
+    <color name="accent">#3D5AF1</color>
+
+    <!-- Light mode color palette -->
+    <color name="background">#F5F7FF</color>
+    <color name="card_background">#F2F2F2</color>
+    <color name="surface">#F0F3FF</color>
+    <color name="divider">#E2E5F9</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#1F2A63</color>
+    <color name="text_secondary">#5E6793</color>
+
+    <!-- Status indicators -->
+    <color name="error">#DF3030</color>
+    <color name="success">#2CB67D</color>
+    <color name="warning">#F4B740</color>
+
+    <!-- Additional accent colors -->
+    <color name="accent_secondary">#6677FF</color>
+    <color name="accent_tertiary">#98A5FF</color>
+
+    <!-- Required colors -->
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+
+    <color name="chip_selected_background">#D2DAFF</color>
+    <color name="primary_light">#D2DAFF</color>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StyleMate</string>
+
+    <!-- Main Screen -->
+    <string name="title_style_mate">StyleMate</string>
+    <string name="subtitle_style_mate">Your personal style calculator</string>
+    <string name="label_mood">My Mood Today</string>
+    <string name="mood_chill">😌 Chill</string>
+    <string name="mood_confident">😎 Confident</string>
+    <string name="mood_lazy">😴 Lazy</string>
+    <string name="mood_sharp">🧠 Sharp</string>
+
+    <string name="label_occasion">Occasion</string>
+    <string name="occasion_casual">Casual</string>
+    <string name="occasion_work">Work</string>
+    <string name="occasion_date">Date</string>
+    <string name="occasion_gym">Gym</string>
+
+    <string name="btn_style_me">STYLE ME!</string>
+    <string name="btn_save_look">SAVE THIS LOOK</string>
+    <string name="btn_share">SHARE</string>
+
+    <!-- Results Categories -->
+    <string name="label_grooming">Grooming Tip</string>
+    <string name="label_outfit">Outfit Suggestion</string>
+    <string name="label_beard">Beard Care</string>
+    <string name="label_fragrance">Fragrance</string>
+    <string name="label_quote">Boost Your Confidence</string>
+    <string name="btn_back_to_home">BACK TO HOME</string>
+
+    <!-- Info Modal -->
+    <string name="info_title">About StyleMate</string>
+    <string name="info_purpose">StyleMate is your digital style assistant, providing personalized grooming and outfit recommendations based on your mood, the occasion, and time of day.</string>
+    <string name="info_how_to_use">How to use: Simply select your current mood and the occasion you\'re preparing for. Then tap \"STYLE ME!\" to get personalized recommendations.</string>
+    <string name="info_general_tips">General Style Tips for Men:</string>
+    <string name="info_tip_1">• Fit is king - always prioritize proper fit over brand or style</string>
+    <string name="info_tip_2">• Invest in quality basics that will last longer</string>
+    <string name="info_tip_3">• Match your belt with your shoes for a cohesive look</string>
+    <string name="info_tip_4">• Regular grooming is as important as your clothing choices</string>
+    <string name="info_tip_5">• Less is more with cologne - one or two sprays is enough</string>
+    <string name="btn_got_it">GOT IT</string>
+
+    <!-- Notifications -->
+    <string name="notification_saved">Look saved successfully!</string>
+    <string name="notification_shared">Style recommendations shared!</string>
+
+
+    <string name="label_style_level">Style Level</string>
+    <string name="info_button_text">Tips</string>
+
+    <string name="title_style_results">Your Style</string>
+    <string name="subtitle_style_recommendations">Personalized recommendations</string>
+</resources>
